@@ -7,7 +7,7 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: [Abaash, Aqsa], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -18,10 +18,10 @@ const config = {
     phone: '01829977462',
     email: 'jubayer.islam0182@gmail.com',
   },
-  resume: {
-    fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+  // resume: {
+  //   fileUrl:
+  //     'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+  // },
   skills: [
     'JavaScript',
     'React.js',
