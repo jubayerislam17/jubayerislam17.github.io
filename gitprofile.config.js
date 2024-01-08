@@ -1,15 +1,15 @@
 // gitprofile.config.js
 
 const config = {
-  github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
-    exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['Abaash', 'Aqsa'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
-    },
-  },
+  // github: {
+  //   username: 'arifszn', // Your GitHub org/user name. (Required)
+  //   sortBy: 'stars', // stars | updated
+  //   limit: 10, // How many projects to display.
+  //   exclude: {
+  //     forks: false, // Forked projects will not be displayed if set to true.
+  //     projects: ['Abaash', 'Aqsa'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+  //   },
+  // },
   social: {
     linkedin: 'Jubayer Islam',
     github: 'https://github.com/jubayerislam17',
