@@ -78,8 +78,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'https://medium.com/@gregorian.jubayer17/the-magic-behind-xgboost-unraveling-the-wizardry-of-boosted-decision-trees-dbf3a1d6d77f', // medium | dev
-    username: '@gregorian.jubayer17', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'gregorian.jubayer17', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   themeConfig: {
