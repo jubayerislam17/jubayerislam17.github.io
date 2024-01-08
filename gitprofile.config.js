@@ -7,14 +7,14 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [Abaash, Aqsa], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Abaash', 'Aqsa'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
     linkedin: 'Jubayer Islam',
     github: 'https://github.com/jubayerislam17',
     medium: 'https://medium.com/@gregorian.jubayer17',
-    website: 'https://jubayerislam17.github.io/',
+    // website: 'https://jubayerislam17.github.io/',
     phone: '01829977462',
     email: 'jubayer.islam0182@gmail.com',
   },
