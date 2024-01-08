@@ -60,22 +60,22 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
-    {
-      title: 'Abaash',
-      description:
-        'Abaash is a web application that helps IUT students find and rent flats according to their preferences, while allowing flat owners to manage their properties and tenants easily. This README file provides an overview of the apps features, technologies used, and how to use it.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://github.com/Dcoders-IUT/Abaash',
-    },
-    {
-      title: 'Aqsa',
-      description:
-        'Aqsa is a Flutter application designed to facilitate a seamless experience for users to stay connected with their daily prayers (Namaz) and enrich their spiritual journey. This app goes beyond just displaying prayer times; it provides a comprehensive set of features to enhance your prayer routine',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://github.com/505-NN-505/Aqsa',
-    },
-  ],
+  // externalProjects: [
+  //   {
+  //     title: 'Abaash',
+  //     description:
+  //       'Abaash is a web application that helps IUT students find and rent flats according to their preferences, while allowing flat owners to manage their properties and tenants easily. This README file provides an overview of the apps features, technologies used, and how to use it.',
+  //     imageUrl: 'https://via.placeholder.com/250x250',
+  //     link: 'https://github.com/Dcoders-IUT/Abaash',
+  //   },
+  //   {
+  //     title: 'Aqsa',
+  //     description:
+  //       'Aqsa is a Flutter application designed to facilitate a seamless experience for users to stay connected with their daily prayers (Namaz) and enrich their spiritual journey. This app goes beyond just displaying prayer times; it provides a comprehensive set of features to enhance your prayer routine',
+  //     imageUrl: 'https://via.placeholder.com/250x250',
+  //     link: 'https://github.com/505-NN-505/Aqsa',
+  //   },
+  // ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
