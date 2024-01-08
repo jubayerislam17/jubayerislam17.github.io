@@ -11,57 +11,37 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Jubayer Islam',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
     medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
     website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    phone: '01829977462',
+    email: 'jubayer.islam0182@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Flutter',
+    'Pytorch',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Battery Low',
+      position: 'App Developer',
+      from: 'May 2023',
+      to: 'Jube 2023',
+      companyLink: 'https://batterylowinteractive.com/',
     },
   ],
   /* certifications: [
@@ -75,15 +55,9 @@ const config = {
   education: [
     {
       institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      degree: 'Bachelor of Science in Computer Science',
+      from: '2020',
+      to: '2024',
     },
   ],
 
@@ -92,16 +66,16 @@ const config = {
     {
       title: 'Project Name',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Abaash is a web application that helps IUT students find and rent flats according to their preferences, while allowing flat owners to manage their properties and tenants easily. This README file provides an overview of the apps features, technologies used, and how to use it.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://github.com/Dcoders-IUT/Abaash',
     },
     {
-      title: 'Project Name',
+      title: 'Aqsa',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Aqsa is a Flutter application designed to facilitate a seamless experience for users to stay connected with their daily prayers (Namaz) and enrich their spiritual journey. This app goes beyond just displaying prayer times; it provides a comprehensive set of features to enhance your prayer routine',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://github.com/505-NN-505/Aqsa',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
