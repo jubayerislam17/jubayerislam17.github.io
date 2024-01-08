@@ -12,11 +12,9 @@ const config = {
   },
   social: {
     linkedin: 'Jubayer Islam',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    medium: 'arifszn',
-    website: 'https://arifszn.com',
+    github: 'https://github.com/jubayerislam17',
+    medium: 'https://medium.com/@gregorian.jubayer17',
+    website: 'https://jubayerislam17.github.io/',
     phone: '01829977462',
     email: 'jubayer.islam0182@gmail.com',
   },
@@ -54,8 +52,8 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Bachelor of Science in Computer Science',
+      institution: 'Islamic University of Technology',
+      degree: 'Bachelors of Science in Computer Science',
       from: '2020',
       to: '2024',
     },
@@ -64,7 +62,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Abaash',
       description:
         'Abaash is a web application that helps IUT students find and rent flats according to their preferences, while allowing flat owners to manage their properties and tenants easily. This README file provides an overview of the apps features, technologies used, and how to use it.',
       imageUrl: 'https://via.placeholder.com/250x250',
@@ -80,17 +78,9 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'https://medium.com/@gregorian.jubayer17/the-magic-behind-xgboost-unraveling-the-wizardry-of-boosted-decision-trees-dbf3a1d6d77f', // medium | dev
+    username: '@gregorian.jubayer17', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
   },
   themeConfig: {
     defaultTheme: 'wireframe',
